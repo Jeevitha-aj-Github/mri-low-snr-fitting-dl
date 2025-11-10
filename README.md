@@ -1,4 +1,4 @@
-Deep Learning–Assisted Fitting of Noisy Perfusion-MRI Curves
+# Exploring Deep Learning–Based Robust Fitting for Noisy Perfusion MRI Signal Modelling
 
 A small, self-contained demo simulating perfusion-like MRI time–intensity curves under low signal-to-noise ratio (SNR).
 It compares classical least-squares fitting with a deep-learning-assisted regressor for improved robustness.
