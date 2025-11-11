@@ -37,6 +37,20 @@ Python (NumPy, SciPy, Matplotlib, PyTorch)
 
 Jupyter Notebook
 
+## Literature Context
+This independent project aligns with ongoing efforts in the University of Manchester neuroimaging group to improve the stability and reproducibility of quantitative MRI analysis.  
+It draws conceptual inspiration from recent work by the supervisory team and collaborators, including:
+
+- **Ohene et al. (2025, npj Imaging):** detection of blood–brain barrier alterations in low-SNR MRI data from Alzheimer’s and infection models.  
+- **Dickie et al. (2024, Magnetic Resonance in Medicine):** open-source consensus guidelines for contrast-agent–based perfusion MRI, promoting reproducible parameter fitting.  
+- **Harris et al. (2023, European Journal of Nuclear Medicine and Molecular Imaging):** in vivo approaches for assessing blood–brain barrier function and dysfunction.  
+- **Jia et al. (2025, IEEE Transactions on Medical Imaging):** development of deep-learning frameworks for image registration using decoder-only architectures.  
+- **Ghodrati et al. (2025, Medical Image Analysis):** acceleration of cardiac MRI reconstruction using compressed sensing and neural priors.  
+
+Together, these studies illustrate a shared goal: integrating data-driven methods and quantitative modelling to enhance physiological imaging.  
+This exploratory work contributes to that direction by testing deep-learning–based fitting for noisy perfusion-like signals.
+
+
 How to Run
 pip install -r requirements.txt
 jupyter notebook
