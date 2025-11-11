@@ -58,16 +58,6 @@ jupyter notebook
 
 Then open 00_classical_baseline.ipynb and 01_dl_fit.ipynb in sequence.
 
-Author
-
-Jeevitha Abeth Nego
-MSc Biomedical Engineering, University of Bristol
-
-Inspiration
-
-Inspired by EPSRC DTP theme
-
-“Improving robustness of brain perfusion and permeability imaging using deep learning.”
 
 ## Author & Context
 **Created by:** Jeevitha Abeth Nego  
