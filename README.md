@@ -69,7 +69,7 @@ Inspired by EPSRC DTP theme
 
 “Improving robustness of brain perfusion and permeability imaging using deep learning.”
 
-##Author & Context
+## Author & Context
 **Created by:** Jeevitha Abeth Nego  
 **Current Role:** Associate Vision Science Practitioner – Ophthalmic Imaging (Great Ormond Street Hospital, London)  
 **Academic Background:** MSc Biomedical Engineering – University of Bristol  
