@@ -24,9 +24,10 @@ Fit with a small PyTorch neural network (MLP)
 Compare RMSE and visualize robustness
 
 Results
-Metric	Classical Fit	DL-Assisted Fit
-RMSE (low SNR)	~0.048	~0.016
-Stability	Degrades with noise	Maintains smooth fit
+Under simulated low-SNR conditions (≈15 dB), classical least-squares fitting produced unstable parameter recovery with visibly distorted curves.  
+The deep-learning model achieved smoother fits and reduced RMSE (~0.016 vs ~0.048), showing greater stability to noise.  
+This behaviour reflects how data-driven priors can implicitly regularise inverse modelling problems similar to Bayesian or variational approaches in quantitative MRI analysis.  
+The findings suggest that compact neural regressors could enhance parameter-map robustness in perfusion and permeability imaging, especially when acquisition speed or patient motion limits signal quality.
 
 DL-assisted model reduces RMSE by ~60–70% under high noise.
 
