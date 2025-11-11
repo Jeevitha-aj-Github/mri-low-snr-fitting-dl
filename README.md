@@ -6,7 +6,7 @@ It compares classical least-squares fitting with a deep-learning-assisted regres
 Goal
 
 ## Clinical Relevance - From Eye to Brain
-In my current role within ophthalmic imaging, I routinely capture retinal and microvascular scans where signal quality and patient motion heavily influence diagnostic accuracy.  
+In my current role within ophthalmic imaging, I routinely capture retinal and microvascular scans where signal  quality and patient motion heavily influence diagnostic accuracy.  
 This hands-on experience with optical and vascular imaging inspired me to explore parallel challenges in brain perfusion MRI, where maintaining quantitative reliability under low signal-to-noise ratios is equally critical.  
 Both domains share a common goal extracting stable, physiologically meaningful information from complex biological signals making this project a natural extension of my current clinical and research interests.
 
