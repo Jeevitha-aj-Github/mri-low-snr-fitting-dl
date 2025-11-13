@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ## *Robust Curve Fitting Under Low SNR: A Perfusion-MRI Simulation Study*
 
 ### *Why I built this*
