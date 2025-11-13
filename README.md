@@ -1,5 +1,7 @@
-![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ## *Robust Curve Fitting Under Low SNR: A Perfusion-MRI Simulation Study*
+
+![python](https://img.shields.io/badge/Python-3.10-blue)
+![license](https://img.shields.io/badge/License-MIT-green)
 
 ### *Why I built this*
 Brain perfusion and permeability MRI depend on accurate kinetic-curve fitting.  
