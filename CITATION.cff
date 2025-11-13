@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "Robust Curve Fitting Under Low SNR: A Perfusion-MRI Simulation Study"
+authors:
+  - family-names: "Nego"
+    given-names: "Jeevitha Abeth"
+    orcid: "https://orcid.org/0009-0009-9999-9999"
+abstract: "A reproducible Python and PyTorch-based simulation study evaluating classical least-squares vs deep-learning-assisted regression for robust kinetic-curve fitting under low signal-to-noise ratio in perfusion-MRI."
+version: "0.1.0"
+date-released: "2025-11-13"
+url: "https://github.com/Jeevitha-aj-Github/mri-low-snr-fitting-dl"
+license: "MIT"
