@@ -29,3 +29,6 @@ The neural regressor reduced RMSE by *~60–70%* under high noise compared to cl
 
 ### *Why this matters*
 This proof-of-concept aligns with current work in robust perfusion and permeability MRI modelling, and demonstrates how data-driven priors can stabilise parameter estimation in low-SNR regimes.
+### 🔍 Why this project matters  
+This project reflects my MSc thesis focus on noise-robust MRI signal modelling. The techniques used here (parameter fitting, reconstruction under low SNR conditions and evaluation metrics such as PSNR/SSIM) are directly relevant to quantitative imaging and biomarker extraction in precision medicine.
+
